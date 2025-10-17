@@ -1,5 +1,5 @@
 ---
-name: 'Ask a Question '
+name: Ask a Question
 about: Just ask a Question
 title: ''
 labels: ''
