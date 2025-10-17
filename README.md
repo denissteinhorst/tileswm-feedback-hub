@@ -14,9 +14,9 @@
 
 ## How to share feedback
 
-- **Report a bug** -> open a new issue and paste [`templates/bug-report.md`](templates/bug-report.md)
-- **Suggest a feature** -> open a new issue and paste [`templates/feature-request.md`](templates/feature-request.md)
-- **Ask a question** -> start a discussion with [`templates/question.md`](templates/question.md)
+- **Report a bug** -> open a new issue for [`a Bug report`](https://github.com/denissteinhorst/tileswm-feedback-hub/issues/new?template=bug_report.md)
+- **Suggest a feature** -> open a new issue for [`a Feature request`](https://github.com/denissteinhorst/tileswm-feedback-hub/issues/new?template=feature_request.md)
+- **Ask a question** -> start a discussion with [`Ask a Question`](https://github.com/denissteinhorst/tileswm-feedback-hub/issues/new?template=ask-a-question.md)
 
 Each template mirrors how TilesWM is structured - profiles, monitors, utility keys, and debug tooling - so I can triage quickly and keep context straight.
 
