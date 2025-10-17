@@ -1,6 +1,14 @@
-# TilesWM Feedback Hub
-
-Thanks for using TilesWM. I am the solo developer behind the project, and thoughtful feedback lets me keep the app precise, efficient, and aligned with the macOS experience you expect.
+<table>
+<tr>
+<td>
+  <img src="assets/icon.png" alt="TilesWM Icon" width="120">
+</td>
+<td>
+  <h1>TilesWM Feedback Hub</h1>
+  <p>Thanks for using TilesWM. I am the solo developer behind the project, and thoughtful feedback lets me keep the app precise, efficient, and aligned with the macOS experience you expect.</p>
+</td>
+</tr>
+</table>
 
 ---
 
