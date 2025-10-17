@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-  <img src="assets/icon.png" alt="TilesWM Icon" width="120">
+  <img src="https://github.com/denissteinhorst/tileswm-feedback-hub/blob/main/assets/TilesWmAppIcon.png?raw=true" alt="TilesWM Icon" width="120">
 </td>
 <td>
   <h1>TilesWM Feedback Hub</h1>
